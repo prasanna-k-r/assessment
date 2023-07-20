@@ -1,0 +1,11 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkPassword.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
